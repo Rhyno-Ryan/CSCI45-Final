@@ -1,10 +1,15 @@
 Sources
 
 
+
  How to tell if a number is prime: The Miller-Rabin Primality Test, William Y.Feng
+
+ How to Implement the Miller-Rabin Primality Test, William Y.Feng 
 
  Generting Large Random Primes with the Miller-Rabin test, JacksonInfoSec
  
  The RSA Encryption Algorithm (both parts), Eddie Woo
 
  Breaking RSA - Computerphile, Compterphile, Dr Mike Pound
+
+ Number Theory | Inverse modulo n, Michael Penn
